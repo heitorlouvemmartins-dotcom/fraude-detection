@@ -52,8 +52,8 @@ XGBoost: 0.99
 
 ## ▶️ Como executar
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seuusuario/fraude-detection.git
+
+git clone https://github.com/seuusuario/fraude-detection.git
 
 pip install -r requirements.txt
 
